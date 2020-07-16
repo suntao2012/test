@@ -1,3 +1,6 @@
 [submodule "DeepLearningExamples"]
 	path = DeepLearningExamples
 	url = https://github.com/NVIDIA/DeepLearningExamples.git
+[submodule "TensorRT"]
+	path = TensorRT
+	url = https://github.com/NVIDIA/TensorRT.git
